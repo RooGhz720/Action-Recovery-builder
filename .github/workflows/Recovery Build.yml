@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'omni_X01BD'
+        default: 'omni_sweet'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
